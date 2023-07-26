@@ -61,7 +61,7 @@
 
 ## My Resume
 
-You can find my resume code [Resume](https://drive.google.com/file/d/1xJNpwXQFiZhLWnhLHgZTm2FXN1YZjhlE/view).
+You can find my resume here [Resume](https://drive.google.com/file/d/1xJNpwXQFiZhLWnhLHgZTm2FXN1YZjhlE/view).
 
 
 
